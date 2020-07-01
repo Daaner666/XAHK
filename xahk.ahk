@@ -30,7 +30,7 @@ ProgState := 0
 ;Shortcuts
 ;===================================================================================================
 Hotkey	!^f,	Fishing			; Pressing ctrl + alt + f will start fishing
-Hotkey  !^e,	JumpFly			; Pressing ctrl + alt + e will dubble hit space and fire a rockct in
+Hotkey  !^e,	JumpFly			; Pressing ctrl + alt + e will double hit space and fire a rocket in
 								; main hand
 Hotkey  !^c,	Concrete		; Pressing ctrl + alt + c will start concrete farming
 Hotkey  !^m,	MobGrind		; Pressing ctrl + alt + m will start mob grinding
